@@ -12,3 +12,6 @@ MATLAB		Version 9.10
 
 Citation:
 (In progress): "Network dynamics of interictal High Frequency Oscillations predict surgical outcome within the clinical workflow in refractory epilepsy"
+
+Data Availability:
+Relevant data can be found at: https://doi.org/10.7302/n9rt-sc45
